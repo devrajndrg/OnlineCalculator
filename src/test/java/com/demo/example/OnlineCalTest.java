@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class OnlineCalculatorTest {
+public class OnlineCalTest {
 
 	static OnlineCalculator obj;
 	@BeforeClass
